@@ -1,0 +1,16 @@
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-auto-rows: auto;
+}
+
+.events-card {
+  grid-column: 1 / 3;
+}
+
+@media screen and (max-width: 960px) {
+  .card-grid {
+    display: flex;
+    flex-direction: column;
+  }
+}
