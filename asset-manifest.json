@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MUAS/static/css/main.5ab15749.chunk.css",
+    "main.js": "/MUAS/static/js/main.536f8f73.chunk.js",
+    "main.js.map": "/MUAS/static/js/main.536f8f73.chunk.js.map",
+    "runtime-main.js": "/MUAS/static/js/runtime-main.de924b15.js",
+    "runtime-main.js.map": "/MUAS/static/js/runtime-main.de924b15.js.map",
+    "static/js/2.04d08844.chunk.js": "/MUAS/static/js/2.04d08844.chunk.js",
+    "static/js/2.04d08844.chunk.js.map": "/MUAS/static/js/2.04d08844.chunk.js.map",
+    "index.html": "/MUAS/index.html",
+    "static/css/main.5ab15749.chunk.css.map": "/MUAS/static/css/main.5ab15749.chunk.css.map",
+    "static/js/2.04d08844.chunk.js.LICENSE.txt": "/MUAS/static/js/2.04d08844.chunk.js.LICENSE.txt",
+    "static/media/Card.css": "/MUAS/static/media/mudae.dc406040.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de924b15.js",
+    "static/js/2.04d08844.chunk.js",
+    "static/css/main.5ab15749.chunk.css",
+    "static/js/main.536f8f73.chunk.js"
+  ]
+}
