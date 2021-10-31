@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MUAS/static/css/main.0dca8ce1.chunk.css",
-    "main.js": "/MUAS/static/js/main.875655a6.chunk.js",
-    "main.js.map": "/MUAS/static/js/main.875655a6.chunk.js.map",
+    "main.css": "/MUAS/static/css/main.da0f0f20.chunk.css",
+    "main.js": "/MUAS/static/js/main.7ab88772.chunk.js",
+    "main.js.map": "/MUAS/static/js/main.7ab88772.chunk.js.map",
     "runtime-main.js": "/MUAS/static/js/runtime-main.de924b15.js",
     "runtime-main.js.map": "/MUAS/static/js/runtime-main.de924b15.js.map",
-    "static/js/2.795c25fd.chunk.js": "/MUAS/static/js/2.795c25fd.chunk.js",
-    "static/js/2.795c25fd.chunk.js.map": "/MUAS/static/js/2.795c25fd.chunk.js.map",
+    "static/js/2.af02d2f6.chunk.js": "/MUAS/static/js/2.af02d2f6.chunk.js",
+    "static/js/2.af02d2f6.chunk.js.map": "/MUAS/static/js/2.af02d2f6.chunk.js.map",
     "index.html": "/MUAS/index.html",
-    "static/css/main.0dca8ce1.chunk.css.map": "/MUAS/static/css/main.0dca8ce1.chunk.css.map",
-    "static/js/2.795c25fd.chunk.js.LICENSE.txt": "/MUAS/static/js/2.795c25fd.chunk.js.LICENSE.txt",
+    "static/css/main.da0f0f20.chunk.css.map": "/MUAS/static/css/main.da0f0f20.chunk.css.map",
+    "static/js/2.af02d2f6.chunk.js.LICENSE.txt": "/MUAS/static/js/2.af02d2f6.chunk.js.LICENSE.txt",
     "static/media/Card.css": "/MUAS/static/media/mudae.dc406040.jfif",
     "static/media/mark.c3061f07.jpg": "/MUAS/static/media/mark.c3061f07.jpg",
     "static/media/rahul.1f00702a.jpg": "/MUAS/static/media/rahul.1f00702a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.de924b15.js",
-    "static/js/2.795c25fd.chunk.js",
-    "static/css/main.0dca8ce1.chunk.css",
-    "static/js/main.875655a6.chunk.js"
+    "static/js/2.af02d2f6.chunk.js",
+    "static/css/main.da0f0f20.chunk.css",
+    "static/js/main.7ab88772.chunk.js"
   ]
 }
