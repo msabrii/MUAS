@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MUAS/static/css/main.29b4759e.chunk.css",
-    "main.js": "/MUAS/static/js/main.83d2fb30.chunk.js",
-    "main.js.map": "/MUAS/static/js/main.83d2fb30.chunk.js.map",
+    "main.css": "/MUAS/static/css/main.9c752de6.chunk.css",
+    "main.js": "/MUAS/static/js/main.9ec9d524.chunk.js",
+    "main.js.map": "/MUAS/static/js/main.9ec9d524.chunk.js.map",
     "runtime-main.js": "/MUAS/static/js/runtime-main.de924b15.js",
     "runtime-main.js.map": "/MUAS/static/js/runtime-main.de924b15.js.map",
     "static/js/2.af02d2f6.chunk.js": "/MUAS/static/js/2.af02d2f6.chunk.js",
     "static/js/2.af02d2f6.chunk.js.map": "/MUAS/static/js/2.af02d2f6.chunk.js.map",
     "index.html": "/MUAS/index.html",
-    "static/css/main.29b4759e.chunk.css.map": "/MUAS/static/css/main.29b4759e.chunk.css.map",
+    "static/css/main.9c752de6.chunk.css.map": "/MUAS/static/css/main.9c752de6.chunk.css.map",
     "static/js/2.af02d2f6.chunk.js.LICENSE.txt": "/MUAS/static/js/2.af02d2f6.chunk.js.LICENSE.txt",
     "static/media/Card.css": "/MUAS/static/media/mudae.dc406040.jfif",
     "static/media/mark.c3061f07.jpg": "/MUAS/static/media/mark.c3061f07.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.de924b15.js",
     "static/js/2.af02d2f6.chunk.js",
-    "static/css/main.29b4759e.chunk.css",
-    "static/js/main.83d2fb30.chunk.js"
+    "static/css/main.9c752de6.chunk.css",
+    "static/js/main.9ec9d524.chunk.js"
   ]
 }
